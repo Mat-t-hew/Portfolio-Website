@@ -1,4 +1,4 @@
-# [Matthew Ikenna]'s Portfolio Website
+# Matthew Ikenna's Portfolio Website
 
 ## Description
 
